@@ -1,6 +1,6 @@
 # 에이전트 편집국 — 글을 만드는 비용이 0이 된 뒤, 블로그를 다시 설계하다
 
-> **초안 판본 (v1.0.0) — 저자가 원고 전문을 검토하기 전에 공개한 판본입니다.** 내용은 바뀔 수 있습니다.
+> **초안 판본 (v1.1.0) — 저자가 원고 전문을 검토하기 전에 공개한 판본입니다.** 내용은 바뀔 수 있습니다.
 
 글을 만드는 비용이 0에 가까워지면, 블로그의 가치는 어디로 옮겨 가는가. 이 책은 그 질문을 들고 AI 에이전트에게 블로그를 맡기는 운영 체계 — **에이전트 편집국**(역할 나누기, 사실 게이트, 문체 게이트, 표기와 편집 책임, 쌓이는 글의 관리) — 를 설계하고, 사람과 AI라는 두 독자 시대의 다음 블로그를 반증 조건이 붙은 **가설 카드**로 남긴다.
 
@@ -9,9 +9,9 @@
 ## 읽기
 
 - **웹 버전**: [ksangki.github.io/agent-newsroom](https://ksangki.github.io/agent-newsroom/)
-- **EPUB**: [v1.0.0 다운로드](epub/에이전트-편집국-v1.0.0.epub)
+- **EPUB**: [v1.1.0 다운로드](epub/에이전트-편집국-v1.1.0.epub) · 이전 판 [v1.0.0](epub/에이전트-편집국-v1.0.0.epub)
 - **책 소개**: [BOOK.md](BOOK.md)
-- **발표 자료**: [1시간 발표용 슬라이드 45장](https://ksangki.github.io/agent-newsroom/presentation/)
+- **발표 자료**: [1시간 발표용 슬라이드 49장](https://ksangki.github.io/agent-newsroom/presentation/)
 
 ## 차례
 
@@ -40,6 +40,6 @@
 
 ## 책 정보
 
-- 저자: 김상기 · 웹·EPUB v1.0.0 (2026-10-11, 초안 판본) · 한국어 · EPUB 3 (epubcheck 검증)
+- 저자: 김상기 · 웹·EPUB v1.1.0 (2026-10-23, 초안 판본 — v1.0.0 2026-10-11 초안에 DEVOTEE의 10월 11~23일 변화를 3~10장에 보강) · 한국어 · EPUB 3 (epubcheck 검증)
 - 라이선스: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.ko)
 - 제작: [book-writer 하네스](https://github.com/tobyilee/book-writer) v2.1.0

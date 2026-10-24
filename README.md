@@ -12,6 +12,7 @@ AI 에이전트에게 블로그 초안을 맡기면 하루 한 편을 내는 일
 - **EPUB**: [v1.2.2 다운로드](epub/에이전트-편집국-v1.2.2.epub) · 이전 판 [v1.2.1](epub/에이전트-편집국-v1.2.1.epub) · [v1.2.0](epub/에이전트-편집국-v1.2.0.epub) · [v1.1.0](epub/에이전트-편집국-v1.1.0.epub) · [v1.0.0](epub/에이전트-편집국-v1.0.0.epub)
 - **책 소개**: [BOOK.md](BOOK.md)
 - **발표 자료**: [1시간 발표용 슬라이드 52장](https://ksangki.github.io/agent-newsroom/presentation/)
+- **발표 자료 요약본**: [핵심 요약 15장 · 편집 가능한 PowerPoint(PPTX)](presentation/agent-newsroom-summary-v1.2.2.pptx)
 
 ## 차례
 

@@ -14,6 +14,7 @@ AI 에이전트에게 블로그 초안을 맡기면 하루 한 편을 내는 일
 - **발표 자료**: [1시간 발표용 슬라이드 52장](https://ksangki.github.io/agent-newsroom/presentation/)
 - **발표 자료 요약본**: [핵심 요약 15장 · 편집 가능한 PowerPoint(PPTX)](presentation/agent-newsroom-summary-v1.2.2.pptx)
 - **소개 영상**: [1분 25초 소개 영상 바로 보기](https://ksangki.github.io/agent-newsroom/videos/agent-newsroom-intro-720p.mp4) · [MP4 다운로드](videos/agent-newsroom-intro-720p.mp4)
+- **오프닝 영상**: [60초 발표 오프닝 바로 보기](https://ksangki.github.io/agent-newsroom/media/opening.mp4) · [MP4 다운로드](media/opening.mp4)
 
 ## 차례
 
